@@ -22,14 +22,14 @@ html,body{
     border-radius: 50%;
     background-color: white;
 }
-.bounding{
+/* .bounding{
     overflow: hidden;
     width: fit-content;
     background-color: red;
 }
 .bounding h1{
     transform: translateY(100%);
-}
+} */
 #main{
     width: 100%;
     background-color: black;
